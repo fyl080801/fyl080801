@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fyl080801&show_icons=true&theme=vue&locale=cn)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fyl080801&show_icons=true&theme=vue&locale=cn" />
 
 Here are some ideas to get you started:
 
