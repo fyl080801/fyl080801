@@ -1,7 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fyl080801&show_icons=true&theme=vue&locale=cn)
 
-**fyl080801/fyl080801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
